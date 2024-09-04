@@ -1,0 +1,9 @@
+# Ignore CSV files in the csv_files directory
+csv_files/
+Gold/
+json_and_CSV/
+
+# Ignore these directories because they are empty
+logs/
+raw/
+Transformed/

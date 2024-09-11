@@ -66,7 +66,7 @@ The solution to the personal assignemnt and the detailed process following the c
 - [Question 3 - Bash Script for moving json and CSV files](https://github.com/Chisomnwa/CDE_Linux_Git_Assignment/blob/solution_branch/Bash_Scripts_Creation-Detailed_Process/Solution_3%3ABash_Script_for_moving_json_and_CSV_files.md)
 - [Question 4A - Bash Script for moving CSV files to PostgreSQL Database](https://github.com/Chisomnwa/CDE_Linux_Git_Assignment/blob/solution_branch/Bash_Scripts_Creation-Detailed_Process/Solution_4A%3ABash_Script_for_Moving_CSV_files_to_PostgreSQL_Database.md)
 - [Question 4B - SQL Scripts for answering the questions posed by the manager; Ayoola](https://github.com/Chisomnwa/CDE_Linux_Git_Assignment/blob/solution_branch/Bash_Scripts_Creation-Detailed_Process/Solution_4B%3ASQL_Scripts.md)
-- [ETL Pipeline Architectural Diagram](https://github.com/Chisomnwa/SQL-Challenge-Case-Study-4---Data-Bank/blob/main/E.%20Extension%20Request.md)
+- [ETL Pipeline Architectural Diagram](https://github.com/Chisomnwa/CDE_Linux_Git_Assignment/blob/solution_branch/ETL%20Pipeline%20Architectural%20Diagram.png)
 
 
 ## Group Assignment

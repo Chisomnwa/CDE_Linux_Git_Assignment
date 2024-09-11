@@ -35,8 +35,7 @@ So, I believe this task wants us to:
 
 * Move the CSV files to that database, 
 
-* And then run SQL queries to answer the qyestions asked.
-
+* And then run SQL queries to answer the questions asked by the manager; Ayoola.
 
 ---
 
@@ -126,7 +125,7 @@ So, I believe this task wants us to:
 
         `nano load_csv_to_postgres.sh`
 
-    * Write a bash script that iterates over and copies each of the CSV files into a PostgreSQL database. The bash script can be found in the **[load_csv_to_postgres.sh](/root/CoreDataEngineers/LinuxGitAssignment/Scripts/Bash/load_csv_to_postgres.sh)** file.
+    * Write a bash script that iterates over and copies each of the CSV files into a PostgreSQL database. The bash script can be found in the **[load_csv_to_postgres.sh](https://github.com/Chisomnwa/CDE_Linux_Git_Assignment/blob/solution_branch/Scripts/Bash/load_csv_to_postgres.sh)** file.
 
     * After writing the bash script, press **Ctrl O** to save the file and **Ctrl X** to exit the file.
 

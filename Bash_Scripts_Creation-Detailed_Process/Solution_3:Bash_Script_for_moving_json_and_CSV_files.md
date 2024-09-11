@@ -13,6 +13,6 @@
 
 * Use nano to open the `move_files.sh` file and write the script for the task. Press `Ctrl + O` to save and `Ctrl + X` to exit. 
 
-* The well-detailed **script** that was used to move the csv and json files in the raw folder to the json_and_CSV folder can be found [here](/root/CoreDataEngineers/LinuxGitAssignment/Scripts/Bash/move_files.sh).
+* The well-detailed **script** that was used to move the csv and json files in the raw folder to the json_and_CSV folder can be found [here](https://github.com/Chisomnwa/CDE_Linux_Git_Assignment/blob/solution_branch/Scripts/Bash/move_json_and_csv.sh).
 
 * Now, execute the script by running `./move_files.sh`.

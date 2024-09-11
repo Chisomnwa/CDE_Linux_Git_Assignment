@@ -51,4 +51,4 @@ Open and Edit the Script file
 
 `nano etl_script.sh`
 
-The well detailed script for the etl process can be found in the [etl_script.sh](/root/CoreDataEngineers/LinuxGitAssignment/Scripts/Bash/etl_script.sh) file.
+The well detailed script for the etl process can be found in the [etl_script.sh](https://github.com/Chisomnwa/CDE_Linux_Git_Assignment/blob/solution_branch/Scripts/Bash/etl_script.sh) file.
